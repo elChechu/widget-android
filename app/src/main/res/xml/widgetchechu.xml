@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialKeyguardLayout="@layout/widgetchechu"
+    android:initialLayout="@layout/widgetchechu"
+    android:minWidth="300dp"
+    android:minHeight="110dp"
+    android:previewImage="@drawable/logo"
+    android:resizeMode="horizontal|vertical"
+    android:updatePeriodMillis="3600000"
+    android:widgetCategory="home_screen"
+    android:configure="com.chechu.actividad3_m8.WidgetChechuConfig"
+
+    />
+
